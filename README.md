@@ -1,4 +1,3 @@
-# SCARA-Arm-CNC-Simulation
 # SCARA Arm CNC Printer Simulation
 
 This project is a Java-based simulation of a SCARA (Selective Compliance Assembly Robot Arm) robotic arm designed for CNC printing. It uses inverse kinematics to control a 2-link arm and includes a Swing-based GUI for real-time visualization, manual coordinate input, and G-code file processing.
@@ -11,7 +10,9 @@ This project is a Java-based simulation of a SCARA (Selective Compliance Assembl
 - **Tracing Mode**: Draws magenta paths when tracing is enabled.
 
 ## Demo
-![{9C516505-0041-4753-AC0C-BB642E9FCB7C}.png](attachment:08c3f9aa-7bb0-48fe-8319-ba39abe463eb:9C516505-0041-4753-AC0C-BB642E9FCB7C.png)
+![{9C516505-0041-4753-AC0C-BB642E9FCB7C}](https://github.com/user-attachments/assets/829e73f8-f213-495f-b0a8-191e2a571a4f)# SCARA-Arm-CNC-Simulation
+
+
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
