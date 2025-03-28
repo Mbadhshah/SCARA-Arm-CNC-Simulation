@@ -11,8 +11,7 @@ This project is a Java-based simulation of a SCARA (Selective Compliance Assembl
 - **Tracing Mode**: Draws magenta paths when tracing is enabled.
 
 ## Demo
-![SCARA Arm Simulation](screenshot.png)
-*(Add a screenshot or GIF here by uploading it to the repo and linking it.)*
+![{9C516505-0041-4753-AC0C-BB642E9FCB7C}.png](attachment:08c3f9aa-7bb0-48fe-8319-ba39abe463eb:9C516505-0041-4753-AC0C-BB642E9FCB7C.png)
 
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
