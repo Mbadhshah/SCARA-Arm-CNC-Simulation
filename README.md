@@ -18,7 +18,3 @@ This project is a Java-based simulation of a SCARA (Selective Compliance Assembl
 - Java Development Kit (JDK) 8 or higher
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse) or command-line tools
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SCARA-Arm-CNC-Simulation.git
